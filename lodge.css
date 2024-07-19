@@ -4,6 +4,11 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+body{
+    background-image: url('lodgepicture.html.jpg')
+
+}
+
 .content{
     position: absolute;
     top: 28%;
